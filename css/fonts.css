@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "PP Raider";
+    src: url('./fonts/pp_rader/PPRader-Regular.otf');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "PP Raider Bold";
+    src: url('./fonts/pp_rader/PPRader-Bold.otf') format('otf');
+}
+
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url('./fonts/gilroy/Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Gilroy-Heavy";
+    src: url('./fonts/gilroy/Gilroy-Heavy.ttf');
+}
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: url('./fonts/gilroy/Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: "Gilroy-Medium";
+    src: url('./fonts/gilroy/Gilroy-Medium.ttf');
+}
+
+@font-face {
+    font-family: "Gilroy-Regular";
+    src: url('./fonts/gilroy/Gilroy-Regular.ttf');
+}

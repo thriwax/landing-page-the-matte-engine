@@ -1,0 +1,86 @@
+/* отключение дефолтного стиля кнопки */
+
+button {
+    border: none;
+    outline: none;
+}
+
+.button_register {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* box-sizing: border-box; */
+    gap: 19px;
+    margin: 0 auto;
+    /* margin-bottom: 80px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* padding-left: 560px; */
+    /* padding-right: 560px; */
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-size: 36px;
+    background: #F5FF7D;
+    border-radius: 48.5px;
+    width: 100%;
+    max-width: 1312px;
+}
+
+.button_prices {
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+color: #FFFFFF;
+background: #000000;
+border-radius: 26px;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 66px;
+padding-right: 66px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+input[type=email] {
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    
+    width: 460px;
+}
+
+input[type=text] {
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    
+    width: 460px;
+}
+
+::-webkit-input-placeholder {
+    color: #000000;
+}
+
+.input_button {
+    border: none;
+    background: none; 
+    font-family: 'Gilroy'; 
+    font-size: 18px; 
+    color: #000000;
+    overflow: auto;
+}
+
+.button_form {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 970px;
+    color: #FFFFFF;
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-size: 22px;
+    border-radius: 26px;
+    background-color: #000000;
+    padding-top: 12px;
+    padding-bottom: 14px;
+}
